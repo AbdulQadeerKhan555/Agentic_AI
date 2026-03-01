@@ -1,0 +1,28 @@
+{
+  "preferences": {
+    "summary_length": "Keep summaries between 150-200 words",
+    "bullet_point_style": "Use • for main points, ◦ for sub-points",
+    "date_format": "Always use YYYY-MM-DD format"
+  },
+  "folder_structure": {
+    "base_directory": "/knowledge/",
+    "subdirectories": [
+      "articles/",
+      "books/",
+      "videos/",
+      "research-papers/",
+      "personal-notes/"
+    ]
+  },
+  "file_naming_convention": "YYYY-MM-DD-{topic}-{source}.md",
+  "metadata_format": {
+    "fields": [
+      "title",
+      "source",
+      "date_added",
+      "tags",
+      "category"
+    ],
+    "template": "---\ntitle: \nsource: \ndate_added: \ntags: \ncategory: \n---"
+  }
+}

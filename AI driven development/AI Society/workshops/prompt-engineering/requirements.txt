@@ -1,0 +1,36 @@
+# Prompt and Context Engineering Workshop - Dependencies
+
+# Core LLM API clients (choose one or both)
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# HTTP requests (for API calls)
+requests>=2.31.0
+
+# Optional: Advanced features
+# Uncomment these if you want to implement stretch goals
+
+# Token counting (OpenAI)
+# tiktoken>=0.5.0
+
+# Semantic search and embeddings
+# sentence-transformers>=2.2.0
+
+# Vector database for RAG
+# chromadb>=0.4.0
+
+# Web interface (optional)
+# streamlit>=1.28.0
+# gradio>=4.0.0
+
+# PDF processing (optional)
+# pypdf2>=3.0.0
+# python-docx>=1.0.0
+
+# Development tools (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.1.0

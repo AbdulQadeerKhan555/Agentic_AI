@@ -1,0 +1,2 @@
+Date,Time,Pair,Direction,Entry_Price,Stop_Loss,Take_Profit_1,Take_Profit_2,Exit_Price,Result,Profit_Loss_USD,Profit_Loss_Percent,Margin_Used,Position_Size,Leverage,RSI_Entry,Setup_Type,Notes,Running_Balance
+2026-01-17,14:30,BTC/USDT,LONG,43250.00,43117.00,43383.00,43515.00,43383.00,WIN,2.00,1.00,6.67,200.00,30x,32,Support_Bounce,Strong support at 43150 with volume spike. Closed 50% at TP1.,202.00
